@@ -1,2 +1,2 @@
 # teletext
-Teletext bits and bytes
+Read about all my cool-ass project ideas in the issues backlog. Maybe some files for all will be here later.
