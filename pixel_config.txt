@@ -58,6 +58,8 @@ sdtv_mode=2
 # Additional overlays and parameters are documented /boot/overlays/README
 
 # Enable audio (loads snd_bcm2835)
+# this is support for tinyToslink, a bit of add-on hardware
+# https://tindie.com/products/Beni_Skate/tinytoslink-raspberry-pi-optical-audio
 dtparam=audio=on
 
 # NOOBS Auto-generated Settings:
