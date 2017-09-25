@@ -62,6 +62,10 @@ sdtv_mode=2
 # https://tindie.com/products/Beni_Skate/tinytoslink-raspberry-pi-optical-audio
 dtparam=audio=on
 
+# the bit below keeps Pixel from using the HDMI plug, instead using the composite out.
+# when the Pi is booted with libreELEC instead of Pixel
+# this config.txt file is not used and HDMI is not ignored.
+
 # NOOBS Auto-generated Settings:
 # hdmi_force_hotplug=1
 hdmi_ignore_hotplug=1
