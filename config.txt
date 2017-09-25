@@ -63,8 +63,8 @@ sdtv_mode=2
 dtparam=audio=on
 
 # the bit below keeps Pixel from using the HDMI plug, instead using the composite out.
-# when the Pi is booted with libreELEC instead of Pixel
-# this config.txt file is not used and HDMI is not ignored.
+# Useful because I dual boot with LibreELEC
+# so this saves me pulling the HDMI plug out when teletexting in Pixel
 
 # NOOBS Auto-generated Settings:
 # hdmi_force_hotplug=1
