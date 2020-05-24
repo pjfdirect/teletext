@@ -13,8 +13,7 @@ Archiving your articles
 Spark Archive link and sample project page link for your archive:
 
 * https://github.com/ZXGuesser/spark-teletext
-* https://github.com/users/gordy1988/projects/1#column-9328724
-
+* https://github.com/users/gordy1988/projects/1
 6. Finally, tell us your project page link and we'll include it on SPARK.
 
 Help
