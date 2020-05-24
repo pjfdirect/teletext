@@ -1,8 +1,8 @@
 Writers
 =======
 
-Archiving your articles
------------------------
+Set up your archive
+-------------------
 
 Here are links to the Spark Archive of articles (TTI teletext files) and an example of an archive page:
 
@@ -11,12 +11,16 @@ Here are links to the Spark Archive of articles (TTI teletext files) and an exam
 
 1. Create an account at github.com and create a project in your account. Use 'other' for the project type. No other template needed.
 1. Add a column to the project for each column you write for.
+1. Bookmark the Spark Archive and your project page for easy reference.
+1. Tell us your archive project page link and we'll include it on SPARK.
+
+Archive an article
+------------------
+
 1. Click the plus symbol on your column to add a notecard for an article.
 1. Get an article link from the Spark Archive by clicking the relevant TTI file and then clicking the 'Raw' button. Copy the address of the raw file from your web browser's address bar.
 1. Type the article title into the notecard.
 1. Paste the link underneath the title an click 'add note' to save.
-1. Bookmark the Spark Archive and your project page for easy reference.
-1. Finally, tell us your project page link and we'll include it on SPARK.
 
 Help
 ----
