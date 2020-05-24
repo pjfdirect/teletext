@@ -1,6 +1,8 @@
-# Writers
+Writers
+=======
 
-## Archiving your articles
+Archiving your articles
+-----------------------
 
 1. Create an account at github.com and create a project in your account.
 1. Add a column to the project for each column you write for.
@@ -14,3 +16,8 @@ Spark Archive link and sample project page link for your archive:
 * https://github.com/users/gordy1988/projects/1#column-9328724
 
 6. Finally, tell us your project page link and we'll include it on SPARK.
+
+Help
+----
+
+There are a few ten second videos here to illustrate archiving.
