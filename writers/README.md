@@ -6,7 +6,7 @@ Archiving your articles
 
 1. Create an account at github.com and create a project in your account.
 1. Add a column to the project for each column you write for.
-1. Add a notecard for each article, contatining the article title and a link.
+1. Add a notecard in the column for each article, containing the article title and this sort of link to the article:
 1. Get the article link from the Spark Archive by clicking the relevant TTI file and then clicking the 'Raw' button.
 1. Bookmark the Spark Archive and your project page for easy reference.
 
