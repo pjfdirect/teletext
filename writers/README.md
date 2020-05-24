@@ -19,5 +19,5 @@ Spark Archive link and sample project page link for your archive:
 Help
 ----
 
-* If you need to dig up a TII that's already rotated off TVArk: 1. Click the TTI's 'History' button 2. Choose an update from the past 3. click the overflow (three-dot) menu 4. choose 'View file' 5. click the old file's 'Raw' button
+* If you need to dig up an article that's already rotated off TVArk: 1. Click the current TTI's 'History' button 2. Choose an update from the past 3. click the overflow (three-dot) menu 4. choose 'View file' 5. click the old file's 'Raw' button
 * There are a few ten second videos here to illustrate archiving.
