@@ -2,38 +2,45 @@ beeblepete's 'Teletext Pete Sheet'
 ==================================
 
 ## White City Sandwich
-Starter art canvas. Links for Edit-TF and ZXedit:
 
-https://edit.tf/#8:QUGTRggQIGTapFsVEDJowQIKfXcgYMUErDuQA2LJ0zaL2rYv_____________________________________________y6BAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgLoECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECAugQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIC6BAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgLoECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECAugQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIC6BAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgLoECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECAugQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIC6BAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgLoECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECAugQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIC6BAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgLoECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECAugQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIC6BAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgLoECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECAugQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIC6BAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgLoECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECAugQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIC6BAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgAw9-zf15ZuuxACjYedTL46IAczTu180Aabhz7tObTjy7uiA
+Level 1 teletext starter art canvas. 
 
-https://zxnet.co.uk/teletext/editor/#8:QUGTRggQIGTapFsVEDJowQIKfXcgYMUErDuQA2LJ0zaL2rYv_____________________________________________y6BAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgLoECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECAugQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIC6BAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgLoECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECAugQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIC6BAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgLoECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECAugQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIC6BAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgLoECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECAugQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIC6BAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgLoECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECAugQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIC6BAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgLoECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECAugQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIC6BAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgLoECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECAugQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIC6BAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgAw9-zf15ZuuxACjYedTL46IAczTu180Aabhz7tObTjy7uiA:PS=0:zx=AA2
+All the rows between the sample header and fastext are set to graphics mode, white pixels on black, so you can get started drawing without having to set them yourself.
 
-## Level 2 Enhancement Generator (ZXedit only, Edit-TF is restricted to Level 1)
-Usage in brief:
+The first row is filled solidly with 'sixels' in case you'd prefer to repeat that row down the page and remove some of those mosaic pixels from the solid rows instead of adding individual pixels to the black background.
 
-Line 1 (under the header) is row position 41, and so on. Enhance lines in order.
-Valid line numbers, in order: 41-63,40 (fastext is 40, because reasons).
-Load the page you want in ZXedit and make sure it's rendering in Level 2.
-Per row:
-Add enhancement, enter row pos, choose 'Set Position' and enter column pos.
-Add enhancement, enter col pos, choose 'Set Foreground', choose CLUT and colour.
-Add enhancement, enter same col pos, choose 'Block Mosaic' and enter its hex.
-Add more enhancements for the current col or the next col on the current row.
-After all enhancements are set:
-Copy the extended hashstring snippet, which begins with 'X26='
-Add a colon to the hashstring in the page editor
-Paste the extended hashstring snippet after the colon and load the new URL
-Enjoy your enhancements
+https://edit.tf/#8:BUGbNugQB2TapFsVEDNm3QIKfXcgYMUErDuQA2LJ0zaL2rYv_____________________________________________y6BAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgLoECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECAugQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIC6BAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgLoECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECAugQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIC6BAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgLoECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECAugQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIC6BAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgLoECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECAugQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIC6BAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgLoECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECAugQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIC6BAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgLoECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECAugQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIC6BAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgLoECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECAugQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIC6BAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgAw9-zf15ZuuxACjYedTL46IAczTu180Aabhz7tObTjy7uiA
 
-Generator URL:
+
+## Level 2 Enhancement Generator for ZXnet Teletext Editor
+https://zxnet.co.uk/teletext/editor
 https://zxnet.co.uk/teletext/enhancement/enhancements.html
 
-### Enhancements example:
+The generator operates Here's how to use the generator to overlay/replace backgrounds/characters in cells.
 
-Example snippet to paste into the generator (remove the terminator enhancement once pasted):
-X26=KkwLAVLgZLAdLghLk2JDXLgXADdLgdLE3JDWLgWLAXPjYJDbLgfJDfADgLk4JDXLgXLAYLgdADfAkoAgBBAMBgPDAZ
+The generator fills an 'extended hashstring snippet' text box. The snippet describes packet <enhancements> that acre copypasted back to the 
 
-Editor example URL:
-https://zxnet.co.uk/teletext/editor/#0:QIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECBAgQIECApv_p0CBFvfoMHxgrToCKDQhcIUCYuw6ZECBAgQIECBAgQICiBAgQIECBAgRb0pTd9IoGmBIXQIGulu-1YEBFAgQIECBEkDIIsyTTgwotSQU8dCiEiqQIkBdBqy9_2Vu-84OhFAgQIEGAMgQU5kGJFnFMCBWnQEUCBogLoPHf93-5_y9z5ztCKBAgQIifjogQIECBAU3vUGBgRQKkBfw_X___f7______t36ICKBQhJ7_6VAg_fUCDggKKn5HQgL6s_z50R____-_Ro-bPa5YEdCAmgQk-BNEnJqv7XR0QEUpfB8_v16______71Yv__-r90wIoSaBBq__UHjoTRE0ScigwF_X_uu5eun__r7ruXrp__5syRAgKoGBNWhQK36DR_aEXSDAX_____58f_v7b__-fP__79-sUCAr-_tEGD90QeCatCRYoERf_______X___d________9_3QICqt-hQIt6dBvSoCOpCiL6v_____9f____77______9371AgKoEGD4wQYPjBB4YEcCovq_____P-7-__Pfu______7350CAqgQKv6VAq_pUG9KRbIC-r___5f3___-uXLl3___f_ve5QICuDogQIPDBBg6ICOBAgL6v_9r6_r0aNGjX9s29v_3e-6YjgK__7VAq_v0CpugItkCAug__0H9ju-_fv358YK_-ru9coSKEqiToECBETwIEHhgRUIC6DX_67__REjRo0Pj5_f-n3ZMRQJgyBBh5k0Gj-1Vf0pFQgLoEX_______________L_duUKBAgJoECBAgQIEaDAgI4FSAugQK_____-9_vf7_3__2bMmIoEiAMgp4eWHQgJ6P7UjgQJC6BAg17________7ly5cuXJFAhwIAyCVh3ZUCBATRkdCBAoLoECBV_d____-_75s2bMmIoECBsgDIKe3T00ICnhgRaIEKougLoEGv_2Xr1qty5coUJFAgQNECAogQIEGD4gQb35FigSqEDEugQIN__70QIECBARQYEmBUgQICn7_0QKv6VAgIuEOBCoQYS6BAg1dv__6wQIEBHAmQNkCBAgA4suXFsy8MvTKCmMgd_pl2ZemXx0DX8Wzfj18MPLp5ZMGTA:PS=0:zx=AA2:PN=100:SC=0:X280=00007F0010000630C66F0600C92FFFFFDC333F777F7FF777FF7F7FFDDD000005:X26=KkwLAVLgZLAdLghLk2JDXLgXADdLgdLE3JDWLgWLAXPjYJDbLgfJDfADgLk4JDXLgXLAYLgdADfAkoAgBBAMBgPDAZ
+To generate:
 
-~ ~ ~
+1. In the editor with render level at 2.5, decide what bit you'll alter first:
+
+* Move cursor and note the (row,column) character in the status bar, eg. (1,05) 0x70 
+* Add forty to the row. Row 1 under the header = 41. Fastext row 24 = 40, because reasons.
+* Expand the Enhancement editor bar at the very bottom and choose the Palette editor.
+* For a desired colour like green, note it in the colour lookup table eg. CLUT: 0, Colour: 2
+
+2. Open the generator in another tab. Enhance rows and columns in order. Per row:
+
+* Add enhancement: enter row pos, choose 'Set Active Position' and enter column pos.
+* Add enhancement: enter col pos, choose 'Set Foreground', choose CLUT and colour.
+* Add enhancement, enter same col pos, choose 'Block Mosaic' and enter its hex.
+* Add more enhancements for the current col or the next col on the current row.
+* Repeat, remembering to Set Active Position when you move on to another row.
+
+3. After all enhancements are set:
+
+* Copy the extended hashstring snippet.
+* Add a colon to the hashstring in the editor tab.
+* Paste the extended hashstring snippet after the colon.
+* Load the URL with its enhanced hashstring.
+* Enjoy your enhancements!
