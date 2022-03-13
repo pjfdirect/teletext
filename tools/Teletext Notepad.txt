@@ -1,0 +1,15 @@
+Teletext Notepad      writer’s template
+
+123456789-123456789-123456789-123456789
+
+39-character-wide document for writing teletext pages. Some teletext pg widths may be slightly narrower. Set your text
+editor's wrapping accordingly.
+
+In addition to width limitations, a page design may reduce the number of lines per screen reserved for text content. Gauge your paragraph breaks against those limits.
+
+Reduce margins further ### illo #######
+when taking into ac-   ### illo #######
+count any planned spot ### illo #######
+illustrations.         ### illo #######
+                       ### illo #######
+Pete Fagan             ### illo #######
