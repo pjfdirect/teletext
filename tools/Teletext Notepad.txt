@@ -8,8 +8,8 @@ editor's wrapping accordingly.
 In addition to width limitations, a page design may reduce the number of lines per screen reserved for text content. Gauge your paragraph breaks against those limits.
 
 Reduce margins further ### illo #######
-when taking into ac-   ### illo #######
-count any planned spot ### illo #######
-illustrations.         ### illo #######
+when taking into       ### illo #######
+account any planned    ### illo #######
+spot illustrations.    ### illo #######
                        ### illo #######
 Pete Fagan             ### illo #######
